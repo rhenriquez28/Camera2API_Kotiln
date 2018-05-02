@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Camera Kotlin</string>
+    <string name="firstImage">First Image</string>
+    <string name="secondImage">Second Image</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="thirdImage">Third Image</string>
+    <string name="camera_request_rationale">GCS requires camera access</string>
+    <string name="capture_Button">Button for capturing media</string>
+    <string name="thumbnail_button">Displays thumbnail of captured media</string>
+</resources>

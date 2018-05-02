@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstFragmentItem"
+        android:title="@string/firstImage"
+        android:icon="@drawable/ic_action_image1"/>
+
+    <item
+        android:id="@+id/secondFragmentItem"
+        android:title="@string/secondImage"
+        android:icon="@drawable/ic_action_image2"/>
+
+    <item
+        android:id="@+id/thirdFragmentItem"
+        android:title="@string/thirdImage"
+        android:icon="@drawable/ic_action_image3"/>
+</menu>
